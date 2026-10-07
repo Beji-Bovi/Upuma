@@ -18,6 +18,6 @@ I'm a 📊 **Data Analyst** from Delta, Nigeria. I turn raw data into decisions 
 - #### **📫 Let's Connect**
 - Email: bejibovi@gmail.com  
 - LinkedIn: [linkedin.com/in/yourname](link)  
-- Twitter/X: [[@Aboyowa Beji](link](https://www.linkedin.com/in/aboyowa-beji-a4ab7a230))
+- Twitter/X: @AboyowaBeji
 
 ⭐ Feel free to check my repositories and drop a star!
