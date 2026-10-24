@@ -5,7 +5,7 @@ I'm a 📊 **Data Analyst** from Delta, Nigeria. I turn raw data into decisions 
 **Data Analysis:** Excel, Looker Studio, SQL
 **Visualization:** Data Studio, Power BI  
 **Other:** Git, GitHub, Data Cleaning, Reporting
-
++
 #### **📌 Current Projects**
 - Building dashboards for business reports in Looker Studio
 - Learning: Advanced SQL and Python for Data Analysis
@@ -13,7 +13,7 @@ I'm a 📊 **Data Analyst** from Delta, Nigeria. I turn raw data into decisions 
 
 #### **📌 Featured Projects**
 - [Customer satisfaction Intelligence Dashboard]([link](https://datastudio.google.com/s/ghJW4TWtb4o)) - Dashboard built with Looker Studio
-- [Cinelytics Film Analysis Dataset] - Excel Data Cleaning & KPI Report
+- [Cinelytics Film Analysis Dataset](https://github.com/Beji-Bovi/Cinelytics-Film-Analysis-Dataset) - Excel Data Cleaning & KPI Report
 
 - #### **📫 Let's Connect**
 - Email: bejibovi@gmail.com  
